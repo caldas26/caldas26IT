@@ -2,7 +2,8 @@
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
-- [Active Directory Home Lab] (https://github.com/caldas26/Active-Directory)
+- <b>Active Directory Home Lab</b>
+  - [Image Analysis Middleware](https://github.com/caldas26/Active-Directory) <b><i>(Potentially NSFW)</b></i>
 - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Vulnerability Management with Nessus Home Lab</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
